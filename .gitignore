@@ -1,0 +1,20 @@
+# Secrets
+.mcp.json
+.env*
+
+# Local tooling
+.claude/
+
+# Private / employer material
+sonepar design work/
+SPARKY CASE STUDYT/
+Experience letter*.pdf
+
+# Large media and archives
+*.mp4
+*.zip
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
